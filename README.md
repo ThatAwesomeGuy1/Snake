@@ -1,0 +1,1 @@
+This is a snake game using random, pygame, and system. If you would like to play it you can put it in any coding software or even your computer and click run. Make sure that you import the three imports. Have fun!
